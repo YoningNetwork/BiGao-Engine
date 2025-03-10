@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>插件相关操作</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="插件接口">
+        <HintPath>..\插件接口\bin\Release\net8.0\插件接口.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Avalonia" Version="11.2.5" />
+      <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\BiGaoInterface\BiGaoInterface.csproj" />
+    </ItemGroup>
+
+</Project>

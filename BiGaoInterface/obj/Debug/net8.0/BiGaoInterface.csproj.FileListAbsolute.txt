@@ -1,0 +1,11 @@
+D:\C#老师公扶持\反射插件\BiGaoInterface\bin\Debug\net8.0\BiGaoInterface.deps.json
+D:\C#老师公扶持\反射插件\BiGaoInterface\bin\Debug\net8.0\BiGaoInterface.dll
+D:\C#老师公扶持\反射插件\BiGaoInterface\bin\Debug\net8.0\BiGaoInterface.pdb
+D:\C#老师公扶持\反射插件\BiGaoInterface\obj\Debug\net8.0\BiGaoInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#老师公扶持\反射插件\BiGaoInterface\obj\Debug\net8.0\BiGaoInterface.AssemblyInfoInputs.cache
+D:\C#老师公扶持\反射插件\BiGaoInterface\obj\Debug\net8.0\BiGaoInterface.AssemblyInfo.cs
+D:\C#老师公扶持\反射插件\BiGaoInterface\obj\Debug\net8.0\BiGaoInterface.csproj.CoreCompileInputs.cache
+D:\C#老师公扶持\反射插件\BiGaoInterface\obj\Debug\net8.0\BiGaoInterface.dll
+D:\C#老师公扶持\反射插件\BiGaoInterface\obj\Debug\net8.0\refint\BiGaoInterface.dll
+D:\C#老师公扶持\反射插件\BiGaoInterface\obj\Debug\net8.0\BiGaoInterface.pdb
+D:\C#老师公扶持\反射插件\BiGaoInterface\obj\Debug\net8.0\ref\BiGaoInterface.dll

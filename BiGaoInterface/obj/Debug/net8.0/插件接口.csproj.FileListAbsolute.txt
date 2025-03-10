@@ -1,0 +1,11 @@
+D:\C#老师公扶持\反射插件\插件接口\bin\Debug\net8.0\插件接口.deps.json
+D:\C#老师公扶持\反射插件\插件接口\bin\Debug\net8.0\插件接口.dll
+D:\C#老师公扶持\反射插件\插件接口\bin\Debug\net8.0\插件接口.pdb
+D:\C#老师公扶持\反射插件\插件接口\obj\Debug\net8.0\插件接口.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#老师公扶持\反射插件\插件接口\obj\Debug\net8.0\插件接口.AssemblyInfoInputs.cache
+D:\C#老师公扶持\反射插件\插件接口\obj\Debug\net8.0\插件接口.AssemblyInfo.cs
+D:\C#老师公扶持\反射插件\插件接口\obj\Debug\net8.0\插件接口.csproj.CoreCompileInputs.cache
+D:\C#老师公扶持\反射插件\插件接口\obj\Debug\net8.0\插件接口.dll
+D:\C#老师公扶持\反射插件\插件接口\obj\Debug\net8.0\refint\插件接口.dll
+D:\C#老师公扶持\反射插件\插件接口\obj\Debug\net8.0\插件接口.pdb
+D:\C#老师公扶持\反射插件\插件接口\obj\Debug\net8.0\ref\插件接口.dll
